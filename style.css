@@ -22,7 +22,7 @@ h2{
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
     border-bottom: 0.2em solid grey;
     flex-basis: content;
     background-color: #21242A;
